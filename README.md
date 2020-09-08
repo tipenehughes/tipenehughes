@@ -1,4 +1,4 @@
-### Hi, I'm Tipene <img src="https://raw.githubusercontent.com/tipenehughes/tipenehughes/master/wave.gif" width="30px">
+## Hi, I'm Tipene <img src="https://raw.githubusercontent.com/tipenehughes/tipenehughes/master/wave.gif" width="30px">
 
 I'm a New York based Front End Developer.
 
