@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/tipenehughes/tipenehughes/master/readme_header.png "Header")](https://www.tipenehughes.com/)
+
 # Hi there! <img src="https://raw.githubusercontent.com/tipenehughes/tipenehughes/master/wave.gif" width="30px">
 
 My name is Tipene and I'm a New York based Front End Developer, originally from New Zealand. I love to build visually beautiful, accessible, and user friendly websites. With the use of my skills, my passion is introducing and building an online presence for disadvantaged communities back home in New Zealand.
