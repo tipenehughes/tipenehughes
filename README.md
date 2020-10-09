@@ -23,7 +23,7 @@ Check out my LinkedIn to find out more about me! [![LinkedIn][3.2]][3]
 [3.2]: https://raw.githubusercontent.com/tipenehughes/tipenehughes/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 [3]: https://www.linkedin.com/in/tipene-hughes-5b380744/
 
 
