@@ -2,7 +2,8 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/tipenehughes/tipenehughes/master/wave.gif" width="30px">
 
-My name is Tipene and I'm a New York based Front End Developer, originally from New Zealand. I love to build visually beautiful, accessible, and user friendly websites. With the use of my skills, my passion is introducing and building an online presence for disadvantaged communities back home in New Zealand.
+I’m Tipene, a New York City based software engineer and developer advocate with a unique blend of technical expertise and customer-centric mindset.
+Combining technical proficiency with strong communication skills, I bridge the gap between developers and technology, empowering them through advocacy, education, and community engagement.
 
 Check out my LinkedIn to find out more about me! [![LinkedIn][3.2]][3]
 
